@@ -592,7 +592,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 footer {
-    padding: 140px 0px;
+    padding: 20px 0px;
 }
 
 
@@ -661,7 +661,7 @@ footer {
 
 @media only screen and (max-width: 767px) {
   .custom-navbar .navbar-brand {
-    line-height: 18px;
+    line-height: 8px;
   }
 
   #home .home-thumb {
@@ -696,10 +696,10 @@ footer {
 
 @media only screen and (max-width: 1024px) {
   .section-title {
-    padding-bottom: 12px;
+    padding-bottom: 5px;
   }
 
   footer {
-    padding: 40px 0;
+    padding: 5px 0;
   }
 }
